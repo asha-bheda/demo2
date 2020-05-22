@@ -1,0 +1,20 @@
+{
+  "name": "volansys-codesandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asha bheda",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "codesandbox": "^2.1.14",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-cmd": "^3.0.0",
+    "node-gitlab": "^1.6.1",
+    "request": "^2.88.2"
+  }
+}
